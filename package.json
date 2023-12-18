@@ -1,7 +1,7 @@
 {
-  "name": "express-example",
+  "name": "bfnz-scrapper",
   "version": "1.0.0",
-  "description": "Express + PlanetScale",
+  "description": "bfnz-scrapper",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
